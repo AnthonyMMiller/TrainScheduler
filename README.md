@@ -1,5 +1,5 @@
 # TrainScheduler
-https://teckniec.github.io/TrainScheduler/
+https://AnthonyMMiller.github.io/TrainScheduler/
 
 application displays train schedule, uses firebase for data storage.
 Overview
